@@ -6,7 +6,7 @@ __pycache__/
 local_settings.py
 db.sqlite3
 db.sqlite3-journal
-media
+/media
 
 
 *.py[cod]
@@ -129,3 +129,4 @@ dmypy.json
 
 # Cython debug symbols
 cython_debug/
+/static
